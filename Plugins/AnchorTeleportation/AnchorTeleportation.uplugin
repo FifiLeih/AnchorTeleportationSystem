@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AnchorTeleportation",
+	"Description": "Teleportation between different maps",
+	"Category": "Other",
+	"CreatedBy": "Myroslav Poliakov",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AnchorTeleportation",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
